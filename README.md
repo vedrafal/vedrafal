@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @vedrafal
-- 🌱 I’m currently learning ...
+   
+I’m currently learning ...
+Mostly docker and virtual environments.
 
 
 <!---
